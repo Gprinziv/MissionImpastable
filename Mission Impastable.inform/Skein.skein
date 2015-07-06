@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x026FB8B8" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x026FB8B8"/>
+  <item nodeId="node-0x026FB8B8">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">In San Luis Obispo lies a piece of history, a quiet mission in a quiet town. Many members of the flock call this church their spiritual home. What they don't know is that the Deacon of the mission actually worships a malevolent power. Even worse, he's planning on resurrecting his dark lord on Halloween. &#x000A;&#x000A; It is October 30, 2013. You have been chosen by Deacon Dean Darkmaster and his demonic henchmen to be a sacrifice. You only have five hours to prevent your own death and the rise of a great evil. The Mission has been taken over in secret by this dark cult, and there is no escaping...&#x000A;&#x000A;Mission Impastable&#x000A;An Interactive Fiction by Kyle Hodgkinson, Prashant Jayaraman, Chris Pauley, Matthew Tong, and Giovanni Prinzivalli&#x000A;Release 1 / Serial number 131011 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;East Garden&#x000A;You awake surrounded by green. For whatever reason, you're in the East Garden of Mission San Luis Obispo. This is strange, but it's not the first time you've had a little too much and woken up in a strange place... You can't remember what you were doing last night. Well, you might as well take a look around before you head home.&#x000A;&#x000A; The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2B98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2B98">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Middle Garden&#x000A;The sweet smell of grapes hangs thick in the air; a short stroll under the arbor helps calm your nerves. The gardens continue east and west. There is also a door to the north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2C08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2C08">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">West Garden&#x000A;Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. Maybe you should stop to smell the flowers. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.&#x000A;&#x000A;You can see a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2C78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2C78">
+    <command xml:space="preserve">smell flowers</command>
+    <result xml:space="preserve">As you bend over to take in a big whiff of pollen, you notice something glinting in the low light - it's a watch!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2CE8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2CE8">
+    <command xml:space="preserve">take watch</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2D58"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2D58">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">West Parking Lot&#x000A;The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.&#x000A;&#x000A;You can see a RR door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2DC8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2DC8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">East Parking Lot&#x000A;...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2E38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2E38">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">garage&#x000A;There's a single car parked here whose license plate reads DARKLRD.  In the corner of the garage you see a standard garage closet with a toolbox lying on the floor next to it.  To the left, you notice an old workbench with a rusty drawer attached to it. You see exits north and east of here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2EA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2EA8">
+    <command xml:space="preserve">x car</command>
+    <result xml:space="preserve">You can see a key through the car window.  How careless.  The key has a small label that reads "Restroom"&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2F18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2F18">
+    <command xml:space="preserve">break window</command>
+    <result xml:space="preserve">You shove your elbow into the car window as hard as you can.  The window breaks!  (Your elbow might be broken too.)&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2F88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2F88">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F2FF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F2FF8">
+    <command xml:space="preserve">open closet</command>
+    <result xml:space="preserve">You open the garage closet, revealing a heatproof suit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3068"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3068">
+    <command xml:space="preserve">take suit</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F30D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F30D8">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">The rusty drawer is rusted shut, you're gonna need to be wearing something protective on your hands to open it!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3148"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3148">
+    <command xml:space="preserve">open toolbox</command>
+    <result xml:space="preserve">You open the tool box, revealing a pair of work gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F31B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F31B8">
+    <command xml:space="preserve">take gloves</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3228"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3228">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">The rusty drawer is rusted shut, you're gonna need to be wearing something protective on your hands to open it!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3298"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3298">
+    <command xml:space="preserve">wear gloves</command>
+    <result xml:space="preserve">You put on the pair of work gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3308"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3308">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">Now with the afforded durability of the handy work gloves you procured, you are able to force the rusty drawer open revealing: lighter fluid&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3378"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3378">
+    <command xml:space="preserve">take fluid</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F33E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F33E8">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">garage&#x000A;There's a single car parked here whose license plate reads DARKLRD.  In the corner of the garage you see a standard garage closet with a toolbox lying on the floor next to it.  To the left, you notice an old workbench with a rusty drawer attached to it. You see exits north and east of here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3458"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3458">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">That door is locked. Who would have the key?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F34C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F34C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">East Parking Lot&#x000A;...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3538"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3538">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">West Parking Lot&#x000A;The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.&#x000A;&#x000A;You can see a RR door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F35A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F35A8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3618"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3618">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the RR door)&#x000A;&#x000A;restroom&#x000A;It's just a normal unisex restroom, with a sink and a stall.&#x000A;&#x000A;There's a plunger near the stall.&#x000A;&#x000A;You can also see a RR door here.&#x000A;&#x000A;Without warning, a disembodied voice speaks to you.&#x000A;"Oh hello! I don't suppose you could do me a favor? I seem to have lost my watch in the gardens. Be a gent and grab it for me, will you?"&#x000A;&#x000A;"Ah, there you are! I - just a moment -" You hear a zipper being tightened followed by a loud *flush*. "Now where was I? Oh yes, there you are!" A wizened man in overalls and a plaid shirt comes out of the farthest stall and begins to wash his hands. He then walks right up to you and snatches the watch you found. "I've been waiting for you to wake up, there isn't much time left. In fact, this is all the time I have." He points to the watch and grins. &#x000A;&#x000A; Ugh, puns&#x2026; Left for what, you wonder. As if reading your mind, he continues, "the Deacon of the mission has been preparing a sacrificial ritual for many years, waiting for the right moment to revive the evil master he worships." Wow, that does sound serious. How much time is left? &#x000A;&#x000A; He's actually really good at this guessing game, because he speaks again. "The ritual is tonight, in only 5 hours. I pulled you out of their cell to delay the ritual and to get you to help me stop it." Wait, WHAT? My cell?! His mind reading powers are exceptional. "Great power lies inside you. You were to be their grand sacrifice, but you also have the power to stop it, so they imprisoned you. I rescued you." He seems so proud of himself. &#x000A;&#x000A; "If you want to escape, you're going to have to stop his lieutenants. Demons, called forth from some unknown hell, have infested the different wings of the mission. Their power keeps you from just walking out. Lucky for you, they're not very bright. If you can defeat them, you might stand a chance at disrupting the ritual and breaking free." &#x000A;&#x000A; "Since the ritual isn't ready yet, they arent actively hunting for you. If you run out of time, all bets are off..."  Creepy...  &#x000A;&#x000A; "Come on, now. Follow me." he hurries out of the restroom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3688"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3688">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">West Parking Lot&#x000A;The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.&#x000A;&#x000A;You can see a RR door here.&#x000A;&#x000A;Following behind, you catch him headed east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F36F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F36F8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">East Parking Lot&#x000A;...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.&#x000A;&#x000A;You can see the groundskeeper ahead of you. He stops for a second, makes a sudden turn, and then heads southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3768"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3768">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">Parking Lot Edge&#x000A;It's desolate.  You can see the chapel to the east, and a garage to the west.  There's additional parking to the northwest and a garage to the west.&#x000A;&#x000A;He finally stops outside the doors to the Chapel. "Here we are. I've unlocked the doors for you. You should be able to access most of the mission now! You can find me in the East Gardens if you need any help. Well, there's only 275 minutes left! Get a move on!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F37D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F37D8">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">East Parking Lot&#x000A;...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x026F3848"/>
+    </children>
+  </item>
+  <item nodeId="node-0x026F3848">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">East Garden&#x000A; The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.&#x000A;&#x000A;You can see a groundskeeper here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C59F90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C59F90">
+    <command xml:space="preserve">talk to groundskeeper</command>
+    <result xml:space="preserve">(the groundskeeper)&#x000A;"What are you doing here? I've finished unlocking the doors. If you have time to dawdle here, you have time to check out the Youth Center, don't you? Scat!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A000"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A000">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Middle Garden&#x000A;You return to the middle garden. The gardens continue east and west. There is also a door to the north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A070"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A070">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A0E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A0E0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">West Garden&#x000A;Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.&#x000A;&#x000A;You can see a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A150">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">West Parking Lot&#x000A;The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.&#x000A;&#x000A;You can see a RR door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A1C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A1C0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">East Parking Lot&#x000A;...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A230"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A230">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">Youth Center&#x000A;The youth center is well-lit and welcoming.  The walls are lined with motivational posters, and colorful books and stationary line the shelves.  You see a child here.  He looks no older than 7, and is wearing a uniform bearing the Darkmaster emblem and the words "Deacon Youth" below it.&#x000A;  The child's eyes widen when he sees you.  "You're the bad guy Dean Darkmaster was talkin about!" he exclaims.  Then his eyes turn mischievous, and he grins.  "Well you're never gonna get to him, mister!" "Why's that?" "Ha ha!  I'm not telling!" You feign disinterest: "I wasn't really interested anyway.  A little kid like you wouldn't know anything."  The Deacon Youth's facial expression becomes as dark as the Darkmaster himself.  "That's not true!  I'm very important!" he says.  "Prove it," you reply.&#x000A;&#x000A;He reveals a key: "You won't get to Dean Darkmaster without this!  This is the main entrance key!  Stupid-head!  All hail the great Flying Spaghetti Monster!" You pause.  Why would Darkmaster entrust an important key to a child?  The Deacon Youth must be bluffing.  Still, it does look like a real key to something.&#x000A;&#x000A;He looks no older than 7, and is wearing a uniform bearing the Darkmaster emblem and the words "Deacon Youth" below it.  He's telling you about the greatness of the Flying Spaghetti Monster, and how you will be easily defeated.&#x000A;&#x000A;The child has a key that he claims is for the main entrance.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A380"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A380">
+    <command xml:space="preserve">close eyes</command>
+    <result xml:space="preserve">Which do you mean, your eyes or the child's eyes?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A310">
+    <command xml:space="preserve">close your eyes</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A2A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A2A0">
+    <command xml:space="preserve">close my eyes</command>
+    <result xml:space="preserve">You close your eyes.  The Deacon Youth continues to endlessly yammer about the glory of his noodly holiness, the Flying Spaghetti Monster.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A3F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A3F0">
+    <command xml:space="preserve">hit youth</command>
+    <result xml:space="preserve">"Ow!" he says.  "You win!".  He hands the key to you and runs away crying.&#x000A;&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A460">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Youth Center&#x000A;The youth center is well-lit and welcoming.  The walls are lined with motivational posters, and colorful books and stationary line the shelves. &#x000A; &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A4D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A4D0">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">West Parking Lot&#x000A;The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.&#x000A;&#x000A;You can see a RR door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A540"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A540">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">West Garden&#x000A;Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.&#x000A;&#x000A;You can see a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A5B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A5B0">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">Gift Shop&#x000A;You are in the Gift Shop, what wonders await you here? The shelves are lined with various knickknacks: rosaries, bibles, posters, and postcards -- all of them mission-themed... Well, the church needs to support itself somehow, and selling junk to tourists is one way to do it.&#x000A;&#x000A; The Gift Shop has an exit to the west, and the museum lies to the east.&#x000A;&#x000A;You can see a gift shop door, a souvenir bible, a postcard, a rosary, a cash register (closed), a poster A and a poster B here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A620">
+    <command xml:space="preserve">take postcard</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A690"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A690">
+    <command xml:space="preserve">open register with postcard</command>
+    <result xml:space="preserve">You unlock the cash register.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C5A700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C5A700">
+    <command xml:space="preserve">open register</command>
+    <result xml:space="preserve">You open the cash register, revealing money.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F228"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F228">
+    <command xml:space="preserve">take money</command>
+    <result xml:space="preserve">As you take the money from the register, you notice a small key underneath the rows of cash. Clever! Or perhaps maybe really idiotic.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F298"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F298">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the museum key)&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F308"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F308">
+    <command xml:space="preserve">open door with museum key</command>
+    <result xml:space="preserve">You unlock the gift shop door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F378"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F378">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the gift shop door)&#x000A;&#x000A;Museum&#x000A;You're not interested in the history. There might not even be a history to learn if you don't finish your task tonight. You see various nicknacks and aftifacts lining the walls, but only a crucifix on the far wall catches your eye.&#x000A;&#x000A;You can see a gift shop door, a museum door and a crucifix here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F3E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F3E8">
+    <command xml:space="preserve">x crucifix</command>
+    <result xml:space="preserve">This crucifix is, pardon the pun, immaculately conceived. It's made of smooth wood, but there is a little silver stripe going around the lengthy part of the cross shape. The stripe says "The Lord protects those in times of need." You wonder if perhaps it's concealing something.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">This crucifix is, pardon the pun, immaculately conceived. It's made of smooth wood, but there is a little silver stripe going around the lengthy part of the cross shape. The stripe says "The Lord protects those in times of need." You wonder if perhaps it's concealing something.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F458"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F458">
+    <command xml:space="preserve">open crucifix</command>
+    <result xml:space="preserve">You give the shorter end of the crucifix a tug. With a loud, metallic ping, a knife emerges from the crucifix. The crucifix was a secret sheath!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">You give the shorter end of the crucifix a tug. With a loud, metallic ping, a knife emerges from the crucifix. The crucifix was a secret sheath!&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02C3F4C8"/>
+      <child nodeId="node-0x02C3F768"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F4C8">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a knife&#x000A;  a museum key&#x000A;  money&#x000A;  a postcard&#x000A;  an unknown key&#x000A;  lighter fluid&#x000A;  a pair of work gloves (being worn)&#x000A;  a heatproof suit&#x000A;  a restroom key&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F538"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F538">
+    <command xml:space="preserve">open museum door with musuem key</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F5A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F5A8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the museum door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F618"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F618">
+    <command xml:space="preserve">open museum door with musuem key</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F688"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F688">
+    <command xml:space="preserve">x museum door</command>
+    <result xml:space="preserve">You see nothing special about the museum door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F6F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F6F8">
+    <command xml:space="preserve">open museum door with musuem key</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02C3F768">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Museum&#x000A;You're not interested in the history. There might not even be a history to learn if you don't finish your task tonight. You see various nickknacks and artifacts lining the walls.&#x000A;&#x000A;You can see a gift shop door and a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F8B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F8B8">
+    <command xml:space="preserve">open door with musuem key</command>
+    <result xml:space="preserve">Which do you mean, the gift shop door or the museum door?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F848"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F848">
+    <command xml:space="preserve">open musuem door with musuem key</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F7D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F7D8">
+    <command xml:space="preserve">open museum door with museum key</command>
+    <result xml:space="preserve">You unlock the museum door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F928"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F928">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the museum door)&#x000A;&#x000A;West Garden&#x000A;Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.&#x000A;&#x000A;You can see a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F998"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F998">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Middle Garden&#x000A;You return to the middle garden. The gardens continue east and west. There is also a door to the north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EA28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EA28">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Parish Hall&#x000A;This is where receptions and events are held. It's mostly clean, but you do see a few bits of trash lying around. Perhaps the Deacon forgot to clean up after himself and his minions after throwing a party in here.&#x000A;&#x000A;You can see a donut, a countertop and a trash can (empty) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EA98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EA98">
+    <command xml:space="preserve">take donut</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EB08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EB08">
+    <command xml:space="preserve">put donut in trash can</command>
+    <result xml:space="preserve">You have performed a valuable public service. The trees salute you.&#x000A;As you toss the stale doughnut away, you notice a sharp-looking fork lying in the trash. It might serve as a makeshift weapon...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EB78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EB78">
+    <command xml:space="preserve">take fork</command>
+    <result xml:space="preserve">You steel your nerves and plunge your hand into the trash can to pull out the fork.&#x000A;&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3ECC8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3ECC8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Dining Area&#x000A; As you enter the area, you see a fleshy, bulbous mass on the table in the center of the room. Several massive chains extend from the mass to hooks on the walls of the room. You step closer, having never seen anything this unusual in your life. Suddenly, the mass springs to life and starts speaking to you. "Hello friend - or should I say, my future dinner. I am the Big Beef, the Super Steakball, the Prime Cut - I am the Murderous Meatball - and tonight, you'll dine with ME!" The mass shows off a grin- the meatball's mouth is lined with incredibly sharp teeth.   Sensing that you're prepared to fight back, the mass finally breaks free from the chains that bound it. It begins to slither towards you with alarming speed - do something! You can see exits to the southwest and west.&#x000A;&#x000A;You can see a Murderous Meatball here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EC58"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EC58">
+    <command xml:space="preserve">attack meatball</command>
+    <result xml:space="preserve">With the silverware in hand, you eviscerate the meatball with the same ease that you do when eating meatballs at home. As you slice it into pieces, it sings "On top of Spaghetti" at the top of its lungs before eventually collapsing into a heap of meatball bits. You pocket a few as evidence of your victory.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EBE8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EBE8">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Dining Area&#x000A; You see nothing of interest now that the meatball is gone  You can see exits to the southwest and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EE18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EE18">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EDA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EDA8">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">East Garden&#x000A; The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.&#x000A;&#x000A;You can see a groundskeeper here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3ED38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3ED38">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Serra Center&#x000A;As you enter the Serra Center, your heart sinks and you palms begin to sweat as you see what you believe to be a&#x2026;a&#x2026; giant, uncooked, Nasty Noodle!&#x000A;&#x000A;You can travel west and south from here.&#x000A;&#x000A;You can see an emergency fire sprinkler and a handwritten note here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EE88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EE88">
+    <command xml:space="preserve">read note</command>
+    <result xml:space="preserve">DANGER!  DANGER!  Sprinkler defective! - Hector&#x000A;&#x000A;Interesting&#x2026;  you should probably talk to Hector about this.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EFD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EFD8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Parish Office&#x000A;You find yourself in a smaller portion of the east wing:  the Parish Office.  This disheveled place is literally in shambles.  A tornado probably passed through the tiny office itself&#x2026; Or worse.  You would expect the Parish Office to be a bit more organized. &#x000A;&#x000A;On the left side of the room there is an incredibly messy office desk with papers sprawled all over it.  On the corner of the desk you notice an opened cookbook.  On the right side of the room you notice an old, rickety candle stand with a thin drawer attached to it.  There are three beautiful, candles placed on the candle stand. &#x000A;&#x000A;A path leads north and south. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EF68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EF68">
+    <command xml:space="preserve">organize papers</command>
+    <result xml:space="preserve">As you begin to sift through the mess of papers, you come across a small silver key buried under the pile of papers!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3EEF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3EEF8">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the small silver key)&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F048"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F048">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Parish Office&#x000A;You find yourself back in the Parish Office.  An office desk, a candle stand , and three candles are present in the room.  You can move north or south from here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F0B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F0B8">
+    <command xml:space="preserve">x desk</command>
+    <result xml:space="preserve">With the papers partially organized, it is much easier to see what is on the desk.&#x000A;&#x000A;On the office desk are a cookbook and are some papers.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F128"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F128">
+    <command xml:space="preserve">read cookbook</command>
+    <result xml:space="preserve">The cookbook is open to a spaghetti recipe.  It reads: &#x000A;&#x000A;Step 1: Boil Water. &#x000A;&#x000A;Step 2: Insert raw spaghetti into pot of boiling water &#x000A;&#x000A;&#x2026;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C3F198"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C3F198">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Chapel&#x000A;You enter the Chapel and somehow feel out of place.  In such a small room, you can almost feel the spiritual intensity. In the far corner of the Chapel you can see an old chapel closet.&#x000A;&#x000A;You also see a man who appears to be a custodian, in the far corner.  You glean his name is Hector the Custodian from his craftily sewed on nametag.  Once Hector catches your glance, he gives you a warm, welcoming smile and a wave.  Almost immediately, Hector seems like someone you can trust.&#x000A;&#x000A;A path leads west and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C449C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C449C8">
+    <command xml:space="preserve">open closet</command>
+    <result xml:space="preserve">You open the Chapel Closet, revealing a step stool.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44A38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44A38">
+    <command xml:space="preserve">take stool</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44AA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44AA8">
+    <command xml:space="preserve">wave hector</command>
+    <result xml:space="preserve">But you aren't holding him.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44B18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44B18">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Chapel&#x000A;Back in the chapel.  There is a closet in the corner and Hector quietly doing his tasks.  You can go north or west from here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44B88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44B88">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a step stool&#x000A;  a small silver key&#x000A;  meatball bits&#x000A;  a fork&#x000A;  a knife&#x000A;  a museum key&#x000A;  money&#x000A;  a postcard&#x000A;  an unknown key&#x000A;  lighter fluid&#x000A;  a pair of work gloves (being worn)&#x000A;  a heatproof suit&#x000A;  a restroom key&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44BF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44BF8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Parish Office&#x000A;You find yourself back in the Parish Office.  An office desk, a candle stand , and three candles are present in the room.  You can move north or south from here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44C68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44C68">
+    <command xml:space="preserve">x stand</command>
+    <result xml:space="preserve">This holy candle stand serves as the supporter for three very important candles&#x2026; Unfotunately you are not exactly sure of their importance.  But the three candles on the stand are adorned with gold and silver accents.  Attached to the stand is a thin drawer.&#x000A;&#x000A;On the corner stand are a first candle, second candle and third candle.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C44CD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C44CD8">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33A50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33A50">
+    <command xml:space="preserve">use silver key to open drawer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33AC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33AC0">
+    <command xml:space="preserve">unlock drawer with silver key</command>
+    <result xml:space="preserve">You unlock the thin drawer.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33B30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33B30">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">You open the thin drawer, revealing a zippo lighter and small engraving.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33BA0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33BA0">
+    <command xml:space="preserve">x engraving</command>
+    <result xml:space="preserve">You have to squint to read it, but you can make out 2 numbers&#x2026;&#x000A;&#x000A; 1 _ 3&#x000A;&#x000A;You wonder what this code could translate to&#x2026;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33C10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33C10">
+    <command xml:space="preserve">take zippo</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33C80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33C80">
+    <command xml:space="preserve">put fluid in zippo</command>
+    <result xml:space="preserve">You put lighter fluid into the zippo lighter.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33CF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33CF0">
+    <command xml:space="preserve">ignite zippo</command>
+    <result xml:space="preserve">The zippo lighter is lit!  You have successfully harnessed the magnificent element of fire!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33D60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33D60">
+    <command xml:space="preserve">light first candle</command>
+    <result xml:space="preserve">You light the first candle.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33DD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33DD0">
+    <command xml:space="preserve">light third candle</command>
+    <result xml:space="preserve">You light third candle.&#x000A;&#x000A;After lighting the first and third candles, you notice a secret compartment below the corner stand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33E40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33E40">
+    <command xml:space="preserve">open secret compartment</command>
+    <result xml:space="preserve">You open the secret compartment, revealing a groundskeeper's wallet.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33EB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33EB0">
+    <command xml:space="preserve">take wallet</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33F20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33F20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Serra Center&#x000A;You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!&#x000A;&#x000A;You can travel west and south from here.&#x000A;&#x000A;You can see an emergency fire sprinkler and a handwritten note here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C33F90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C33F90">
+    <command xml:space="preserve">put stool on floor</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C34000"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C34000">
+    <command xml:space="preserve">drop stool</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C34070"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C34070">
+    <command xml:space="preserve">get on stool</command>
+    <result xml:space="preserve">That's not something you can enter.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C340E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C340E0">
+    <command xml:space="preserve">stand on stool</command>
+    <result xml:space="preserve">That's not something you can stand on.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C341C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C341C0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Serra Center&#x000A;You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!&#x000A;&#x000A;You can travel west and south from here.&#x000A;&#x000A;You can see a step stool, an emergency fire sprinkler and a handwritten note here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C178D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C178D8">
+    <command xml:space="preserve">go on stool</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17948"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17948">
+    <command xml:space="preserve">step on stool</command>
+    <result xml:space="preserve">You have stepped up your step stool&#x000A;&#x000A;Serra Center (on the step stool)&#x000A;You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!&#x000A;&#x000A;You can travel west and south from here.&#x000A;&#x000A;You can see an emergency fire sprinkler and a handwritten note here.&#x000A;&#x000A;You quickly flip turn off your zippo, realizing it might be the best idea to put on some sort of protective clothing before dousing the room in boiing hot water&#x2026; the room you are in of course.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C179B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C179B8">
+    <command xml:space="preserve">put on suit</command>
+    <result xml:space="preserve">You put on the heatproof suit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17A28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17A28">
+    <command xml:space="preserve">ignite zippo</command>
+    <result xml:space="preserve">The zippo lighter is lit!  You have successfully harnessed the magnificent element of fire!&#x000A;&#x000A;You lift the lit zippo lighter near the sprinkler, and before you know it&#x2026; hundreds of pounds of water come raining down form the ceiling.  The water is incredibly hot, just as Hector predicted.  But as the water dumps on the room, you realize the nasty noodle is becoming weaker, smaller, less nasty.  It only takes 30 seconds for the nasty noodle to be stripped of his power.  Now there are pieces of cooked spaghetti all over the room!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17A98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17A98">
+    <command xml:space="preserve">take spaghetti</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17B08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17B08">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first getting off the step stool)&#x000A;&#x000A;East Garden&#x000A; The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.&#x000A;&#x000A;You can see a groundskeeper here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17B78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17B78">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Middle Garden&#x000A;You return to the middle garden. The gardens continue east and west. There is also a door to the north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C17BE8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C17BE8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">West Garden&#x000A;Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.&#x000A;&#x000A;You can see a museum door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C831F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C831F0">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">Gift Shop&#x000A;You are in the Gift Shop, what wonders await you here? The shelves are lined with various knickknacks: rosaries, bibles, posters, and postcards -- all of them mission-themed... Well, the church needs to support itself somehow, and selling junk to tourists is one way to do it.&#x000A;&#x000A; The Gift Shop has an exit to the west, and the museum lies to the east.&#x000A;&#x000A;You can see a gift shop door, a souvenir bible, a rosary, a cash register (empty), a poster A and a poster B here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83260">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Main Entrance&#x000A;You are amazed by the entirety of the Church to the south.  Stairs lined with pillars take you to the grand wooden door.  To the north there appears to be some sort of statue and eastward there is a tiny gift shop selling things for the Mission.&#x000A;&#x000A;Standing at the top of the stairs is the Saucy Sorceress.  She is an overconfident, cocky, saucy sorceress.  She won't stop pontificating about the glories of the Flying Spaghetti Monster.&#x000A;&#x000A;You can also see a barricade and a grand wooden door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C832D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C832D0">
+    <command xml:space="preserve">combine spaghettti and meatballs</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83340">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Cooked spaghetti&#x000A;  a groundskeeper's wallet&#x000A;  a zippo lighter&#x000A;    lighter fluid&#x000A;  a small silver key&#x000A;  meatball bits&#x000A;  a fork&#x000A;  a knife&#x000A;  a museum key&#x000A;  money&#x000A;  a postcard&#x000A;  an unknown key&#x000A;  a pair of work gloves (being worn)&#x000A;  a heatproof suit (being worn)&#x000A;  a restroom key&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C833B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C833B0">
+    <command xml:space="preserve">combine meatball bits and cooked spaghetti</command>
+    <result xml:space="preserve">You can't use multiple objects with that verb.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83500"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83500">
+    <command xml:space="preserve">combine meatball bits with cooked spaghetti</command>
+    <result xml:space="preserve">You now have Delicious Spaghetti Dish.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C835E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C835E0">
+    <command xml:space="preserve">eat spaghetti</command>
+    <result xml:space="preserve">The Saucy Sorceress Screams "The horror!  My precious creation!  What have you done?!  This is unspeakable."  You feel the room shake and you hear a high pitched sound, like something scraping against the floor. She flees inside the Church.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83650"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83650">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a groundskeeper's wallet&#x000A;  a zippo lighter&#x000A;    lighter fluid&#x000A;  a small silver key&#x000A;  a fork&#x000A;  a knife&#x000A;  a museum key&#x000A;  money&#x000A;  a postcard&#x000A;  an unknown key&#x000A;  a pair of work gloves (being worn)&#x000A;  a heatproof suit (being worn)&#x000A;  a restroom key&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C836C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C836C0">
+    <command xml:space="preserve">drop all</command>
+    <result xml:space="preserve">groundskeeper's wallet: Dropped.&#x000A;zippo lighter: Dropped.&#x000A;small silver key: Dropped.&#x000A;fork: Dropped.&#x000A;knife: Dropped.&#x000A;museum key: Dropped.&#x000A;money: Dropped.&#x000A;postcard: Dropped.&#x000A;unknown key: Dropped.&#x000A;restroom key: Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83730">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Main Entrance&#x000A;You are amazed by the entirety of the Church to the south.  Stairs lined with pillars take you to the grand wooden door.  To the north there appears to be some sort of statue and eastward there is a tiny gift shop selling things for the Mission.&#x000A;&#x000A;You can see a restroom key, an unknown key, a postcard, money, a museum key, a knife, a fork, a small silver key, a zippo lighter (in which is lighter fluid), a groundskeeper's wallet, a barricade and a grand wooden door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83570"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83570">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first opening the barricade)&#x000A;Even if you climbed this barricade the fall would break a bone.  Maybe you should try a different way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83810"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83810">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the grand wooden door)&#x000A;&#x000A;Main Church&#x000A;An oppressive aura fills the air here. The church is lined by rows of pews and an altar stands at the head, covered in a white linen cloth. The Mission Lobby lies to the south of the author.&#x000A;&#x000A;The altar is made of granite marble.&#x000A;&#x000A;A wizened priest strolls around the church, cleaning things and greeting anyone that comes in.  He seems willing to answer any questions, although you may not get the response you want.&#x000A;&#x000A;You can also see a grand wooden door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C837A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C837A0">
+    <command xml:space="preserve">ask about altar</command>
+    <result xml:space="preserve">(addressing the Priest)&#x000A;He looks at the altar with a serene expression. "I usually pray at the altar each day at noon."&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C838F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C838F0">
+    <command xml:space="preserve">x altar</command>
+    <result xml:space="preserve">Upon looking closer, you notice a few blood spots.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83960"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83960">
+    <command xml:space="preserve">ask about blood</command>
+    <result xml:space="preserve">Oh, I'm not so sure about that. However, I need your help. Could you fetch me a special book and a beaker combined with liquid from the other room?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C34150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C34150">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">mission lobby&#x000A;There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.&#x000A;&#x000A;In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.&#x000A;&#x000A;The picture says "Touched by his noodly appendage".&#x000A;&#x000A;You can also see a bookshelf and a chair here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552340">
+    <command xml:space="preserve">x trash</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x085523B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x085523B0">
+    <command xml:space="preserve">x trash can</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552420">
+    <command xml:space="preserve">x tables</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552490">
+    <command xml:space="preserve">x table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552500"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552500">
+    <command xml:space="preserve">x bookshelf</command>
+    <result xml:space="preserve">A place to store books. This one is currently empty.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552570"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552570">
+    <command xml:space="preserve">take book</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x085525E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x085525E0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a book&#x000A;  a pair of work gloves (being worn)&#x000A;  a heatproof suit (being worn)&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552650"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552650">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">mission lobby&#x000A;There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.&#x000A;&#x000A;In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.&#x000A;&#x000A;The picture says "Touched by his noodly appendage".&#x000A;&#x000A;You can also see a bookshelf and a chair here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x085527A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x085527A0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Sacristy&#x000A;This is a room where the priests and beacons can prepare for the upcoming masses and rituals.  The walls are mostly barren, but a few small objects can be seen. On the east wall, a single picture hangs on the wall and a candle lights the room. On the south wall, a clothes rack can be seen. The west wall is dark and forboding for some reason...&#x000A;&#x000A;Clothes are hanging from the rack for the next mass.&#x000A;&#x000A;You can also see a west wall here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552730">
+    <command xml:space="preserve">x west wall</command>
+    <result xml:space="preserve">A mayo stain on the wall has begun to harden, leaving a slight trail towards the floor. You could probably scoop up the remaining... liquid?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552810"/>
+      <child nodeId="node-0x085522D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552810">
+    <command xml:space="preserve">x west wall</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x085522D0">
+    <command xml:space="preserve">x clothes rack</command>
+    <result xml:space="preserve">In the clothes rack are a shirt, a robe and a jacket.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x085528F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x085528F0">
+    <command xml:space="preserve">x robe</command>
+    <result xml:space="preserve">A long formal garment to wear for the celebration of holiness. There appears to be something in the robe pocket...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552880"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552880">
+    <command xml:space="preserve">x pocket</command>
+    <result xml:space="preserve">There's a small, empty beaker in the pocket!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x085526C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x085526C0">
+    <command xml:space="preserve">take beaker</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08552960"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08552960">
+    <command xml:space="preserve">take mayo stain</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C83880"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C83880">
+    <command xml:space="preserve">put mayo in beaker</command>
+    <result xml:space="preserve">You put the mayo stain into the empty beaker.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08551AD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08551AD0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">mission lobby&#x000A;There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.&#x000A;&#x000A;In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.&#x000A;&#x000A;The picture says "Touched by his noodly appendage".&#x000A;&#x000A;You can also see a bookshelf and a chair here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08551D00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08551D00">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Main Church&#x000A;An oppressive aura fills the air here. The church is lined by rows of pews and an altar stands at the head, covered in a white linen cloth. The Mission Lobby lies to the south of the author.&#x000A;&#x000A;The altar is made of granite marble.&#x000A;&#x000A;A wizened priest strolls around the church, cleaning things and greeting anyone that comes in.  He seems willing to answer any questions, although you may not get the response you want.&#x000A;&#x000A;You can also see a grand wooden door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08551C90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08551C90">
+    <command xml:space="preserve">combine mayo with beaker</command>
+    <result xml:space="preserve">(first taking the mayo stain)&#x000A;You now have a filled beaker.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x08551C20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x08551C20">
+    <command xml:space="preserve">give filled beaker</command>
+    <result xml:space="preserve">(to the Priest)&#x000A;"Thank you, child. You're pretty sharp, I didn't even tell you what book I wanted!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+</Skein>

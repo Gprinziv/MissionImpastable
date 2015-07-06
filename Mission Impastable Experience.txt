@@ -1,0 +1,914 @@
+In San Luis Obispo lies a piece of history, a quiet mission in a quiet town. Many members of the flock call this church their spiritual home. What they don't know is that the Deacon of the mission actually worships a malevolent power. Even worse, he's planning on resurrecting his dark lord on Halloween. 
+
+ It is October 30, 2013. You have been chosen by Deacon Dean Darkmaster and his demonic henchmen to be a sacrifice. You only have five hours to prevent your own death and the rise of a great evil. The Mission has been taken over in secret by this dark cult, and there is no escaping...
+
+Mission Impastable
+An Interactive Fiction by Kyle Hodgkinson, Prashant Jayaraman, Chris Pauley, Matthew Tong, and Giovanni Prinzivalli
+Release 1 / Serial number 131011 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+East Garden
+You awake surrounded by green. For whatever reason, you're in the East Garden of Mission San Luis Obispo. This is strange, but it's not the first time you've had a little too much and woken up in a strange place... You can't remember what you were doing last night. Well, you might as well take a look around before you head home.
+
+ The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.
+
+>w
+Middle Garden
+The sweet smell of grapes hangs thick in the air; a short stroll under the arbor helps calm your nerves. The gardens continue east and west. There is also a door to the north.
+
+>w
+West Garden
+Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. Maybe you should stop to smell the flowers. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.
+
+You can see a museum door here.
+
+>smell flowers
+As you bend over to take in a big whiff of pollen, you notice something glinting in the low light - it's a watch!
+
+>take watch
+Taken.
+
+>s
+West Parking Lot
+The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.
+
+You can see a RR door here.
+
+>e
+East Parking Lot
+...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.
+
+>s
+garage
+There's a single car parked here whose license plate reads DARKLRD.  In the corner of the garage you see a standard garage closet with a toolbox lying on the floor next to it.  To the left, you notice an old workbench with a rusty drawer attached to it. You see exits north and east of here.
+
+>x car
+You can see a key through the car window.  How careless.  The key has a small label that reads "Restroom"
+>break window
+You shove your elbow into the car window as hard as you can.  The window breaks!  (Your elbow might be broken too.)
+
+>take key
+Taken.
+
+>open closet
+You open the garage closet, revealing a heatproof suit.
+
+>take suit
+Taken.
+
+>open drawer
+The rusty drawer is rusted shut, you're gonna need to be wearing something protective on your hands to open it!
+
+>open toolbox
+You open the tool box, revealing a pair of work gloves.
+
+>take gloves
+Taken.
+
+>open drawer
+The rusty drawer is rusted shut, you're gonna need to be wearing something protective on your hands to open it!
+
+>wear gloves
+You put on the pair of work gloves.
+
+>open drawer
+Now with the afforded durability of the handy work gloves you procured, you are able to force the rusty drawer open revealing: lighter fluid
+>take fluid
+Taken.
+
+>l
+garage
+There's a single car parked here whose license plate reads DARKLRD.  In the corner of the garage you see a standard garage closet with a toolbox lying on the floor next to it.  To the left, you notice an old workbench with a rusty drawer attached to it. You see exits north and east of here.
+
+>w
+That door is locked. Who would have the key?
+
+>n
+East Parking Lot
+...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.
+
+>w
+West Parking Lot
+The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.
+
+You can see a RR door here.
+
+>w
+You can't go that way.
+
+>s
+(first opening the RR door)
+
+restroom
+It's just a normal unisex restroom, with a sink and a stall.
+
+There's a plunger near the stall.
+
+You can also see a RR door here.
+
+Without warning, a disembodied voice speaks to you.
+"Oh hello! I don't suppose you could do me a favor? I seem to have lost my watch in the gardens. Be a gent and grab it for me, will you?"
+
+"Ah, there you are! I - just a moment -" You hear a zipper being tightened followed by a loud *flush*. "Now where was I? Oh yes, there you are!" A wizened man in overalls and a plaid shirt comes out of the farthest stall and begins to wash his hands. He then walks right up to you and snatches the watch you found. "I've been waiting for you to wake up, there isn't much time left. In fact, this is all the time I have." He points to the watch and grins. 
+
+ Ugh, puns… Left for what, you wonder. As if reading your mind, he continues, "the Deacon of the mission has been preparing a sacrificial ritual for many years, waiting for the right moment to revive the evil master he worships." Wow, that does sound serious. How much time is left? 
+
+ He's actually really good at this guessing game, because he speaks again. "The ritual is tonight, in only 5 hours. I pulled you out of their cell to delay the ritual and to get you to help me stop it." Wait, WHAT? My cell?! His mind reading powers are exceptional. "Great power lies inside you. You were to be their grand sacrifice, but you also have the power to stop it, so they imprisoned you. I rescued you." He seems so proud of himself. 
+
+ "If you want to escape, you're going to have to stop his lieutenants. Demons, called forth from some unknown hell, have infested the different wings of the mission. Their power keeps you from just walking out. Lucky for you, they're not very bright. If you can defeat them, you might stand a chance at disrupting the ritual and breaking free." 
+
+ "Since the ritual isn't ready yet, they arent actively hunting for you. If you run out of time, all bets are off..."  Creepy...  
+
+ "Come on, now. Follow me." he hurries out of the restroom.
+
+>n
+West Parking Lot
+The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.
+
+You can see a RR door here.
+
+Following behind, you catch him headed east.
+
+>e
+East Parking Lot
+...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.
+
+You can see the groundskeeper ahead of you. He stops for a second, makes a sudden turn, and then heads southeast.
+
+>se
+Parking Lot Edge
+It's desolate.  You can see the chapel to the east, and a garage to the west.  There's additional parking to the northwest and a garage to the west.
+
+He finally stops outside the doors to the Chapel. "Here we are. I've unlocked the doors for you. You should be able to access most of the mission now! You can find me in the East Gardens if you need any help. Well, there's only 275 minutes left! Get a move on!"
+
+>nw
+East Parking Lot
+...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.
+
+>n
+East Garden
+ The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.
+
+You can see a groundskeeper here.
+
+>talk to groundskeeper
+(the groundskeeper)
+"What are you doing here? I've finished unlocking the doors. If you have time to dawdle here, you have time to check out the Youth Center, don't you? Scat!"
+
+>w
+Middle Garden
+You return to the middle garden. The gardens continue east and west. There is also a door to the north.
+
+>s
+You can't go that way.
+
+>w
+West Garden
+Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.
+
+You can see a museum door here.
+
+>s
+West Parking Lot
+The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.
+
+You can see a RR door here.
+
+>e
+East Parking Lot
+...Nothing but a few parked cars here.  You can spot gardens to the north, a garage to the south, and the Youth Center to the southwest.  There's additional parking to the west and to the southeast.
+
+>sw
+Youth Center
+The youth center is well-lit and welcoming.  The walls are lined with motivational posters, and colorful books and stationary line the shelves.  You see a child here.  He looks no older than 7, and is wearing a uniform bearing the Darkmaster emblem and the words "Deacon Youth" below it.
+  The child's eyes widen when he sees you.  "You're the bad guy Dean Darkmaster was talkin about!" he exclaims.  Then his eyes turn mischievous, and he grins.  "Well you're never gonna get to him, mister!" "Why's that?" "Ha ha!  I'm not telling!" You feign disinterest: "I wasn't really interested anyway.  A little kid like you wouldn't know anything."  The Deacon Youth's facial expression becomes as dark as the Darkmaster himself.  "That's not true!  I'm very important!" he says.  "Prove it," you reply.
+
+He reveals a key: "You won't get to Dean Darkmaster without this!  This is the main entrance key!  Stupid-head!  All hail the great Flying Spaghetti Monster!" You pause.  Why would Darkmaster entrust an important key to a child?  The Deacon Youth must be bluffing.  Still, it does look like a real key to something.
+
+He looks no older than 7, and is wearing a uniform bearing the Darkmaster emblem and the words "Deacon Youth" below it.  He's telling you about the greatness of the Flying Spaghetti Monster, and how you will be easily defeated.
+
+The child has a key that he claims is for the main entrance.
+
+>close eyes
+Which do you mean, your eyes or the child's eyes?
+
+>close your eyes
+You can't see any such thing.
+
+>close my eyes
+You close your eyes.  The Deacon Youth continues to endlessly yammer about the glory of his noodly holiness, the Flying Spaghetti Monster.
+
+>hit youth
+"Ow!" he says.  "You win!".  He hands the key to you and runs away crying.
+
+Taken.
+
+>l
+Youth Center
+The youth center is well-lit and welcoming.  The walls are lined with motivational posters, and colorful books and stationary line the shelves. 
+ 
+
+>nw
+West Parking Lot
+The West Parking Lot is all but deserted.  You can see gardens north of here, restrooms to the south, and the Youth Center to the southeast.  There's additional parking to the east.
+
+You can see a RR door here.
+
+>n
+West Garden
+Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.
+
+You can see a museum door here.
+
+>nw
+Gift Shop
+You are in the Gift Shop, what wonders await you here? The shelves are lined with various knickknacks: rosaries, bibles, posters, and postcards -- all of them mission-themed... Well, the church needs to support itself somehow, and selling junk to tourists is one way to do it.
+
+ The Gift Shop has an exit to the west, and the museum lies to the east.
+
+You can see a gift shop door, a souvenir bible, a postcard, a rosary, a cash register (closed), a poster A and a poster B here.
+
+>take postcard
+Taken.
+
+>open register with postcard
+You unlock the cash register.
+
+>open register
+You open the cash register, revealing money.
+
+>take money
+As you take the money from the register, you notice a small key underneath the rows of cash. Clever! Or perhaps maybe really idiotic.
+
+>take key
+(the museum key)
+Taken.
+
+>open door with museum key
+You unlock the gift shop door.
+
+>e
+(first opening the gift shop door)
+
+Museum
+You're not interested in the history. There might not even be a history to learn if you don't finish your task tonight. You see various nicknacks and aftifacts lining the walls, but only a crucifix on the far wall catches your eye.
+
+You can see a gift shop door, a museum door and a crucifix here.
+
+>x crucifix
+This crucifix is, pardon the pun, immaculately conceived. It's made of smooth wood, but there is a little silver stripe going around the lengthy part of the cross shape. The stripe says "The Lord protects those in times of need." You wonder if perhaps it's concealing something.
+
+>open crucifix
+You give the shorter end of the crucifix a tug. With a loud, metallic ping, a knife emerges from the crucifix. The crucifix was a secret sheath!
+
+>l
+Museum
+You're not interested in the history. There might not even be a history to learn if you don't finish your task tonight. You see various nickknacks and artifacts lining the walls.
+
+You can see a gift shop door and a museum door here.
+
+>open door with musuem key
+Which do you mean, the gift shop door or the museum door?
+
+>open musuem door with musuem key
+You can't see any such thing.
+
+>open museum door with museum key
+You unlock the museum door.
+
+>s
+(first opening the museum door)
+
+West Garden
+Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.
+
+You can see a museum door here.
+
+>e
+Middle Garden
+You return to the middle garden. The gardens continue east and west. There is also a door to the north.
+
+>n
+Parish Hall
+This is where receptions and events are held. It's mostly clean, but you do see a few bits of trash lying around. Perhaps the Deacon forgot to clean up after himself and his minions after throwing a party in here.
+
+You can see a donut, a countertop and a trash can (empty) here.
+
+>take donut
+Taken.
+
+>put donut in trash can
+You have performed a valuable public service. The trees salute you.
+As you toss the stale doughnut away, you notice a sharp-looking fork lying in the trash. It might serve as a makeshift weapon...
+
+>take fork
+You steel your nerves and plunge your hand into the trash can to pull out the fork.
+
+Taken.
+
+>e
+Dining Area
+ As you enter the area, you see a fleshy, bulbous mass on the table in the center of the room. Several massive chains extend from the mass to hooks on the walls of the room. You step closer, having never seen anything this unusual in your life. Suddenly, the mass springs to life and starts speaking to you. "Hello friend - or should I say, my future dinner. I am the Big Beef, the Super Steakball, the Prime Cut - I am the Murderous Meatball - and tonight, you'll dine with ME!" The mass shows off a grin- the meatball's mouth is lined with incredibly sharp teeth.   Sensing that you're prepared to fight back, the mass finally breaks free from the chains that bound it. It begins to slither towards you with alarming speed - do something! You can see exits to the southwest and west.
+
+You can see a Murderous Meatball here.
+
+>attack meatball
+With the silverware in hand, you eviscerate the meatball with the same ease that you do when eating meatballs at home. As you slice it into pieces, it sings "On top of Spaghetti" at the top of its lungs before eventually collapsing into a heap of meatball bits. You pocket a few as evidence of your victory.
+
+>l
+Dining Area
+ You see nothing of interest now that the meatball is gone  You can see exits to the southwest and west.
+
+>se
+You can't go that way.
+
+>sw
+East Garden
+ The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.
+
+You can see a groundskeeper here.
+
+>e
+Serra Center
+As you enter the Serra Center, your heart sinks and you palms begin to sweat as you see what you believe to be a…a… giant, uncooked, Nasty Noodle!
+
+You can travel west and south from here.
+
+You can see an emergency fire sprinkler and a handwritten note here.
+
+>read note
+DANGER!  DANGER!  Sprinkler defective! - Hector
+
+Interesting…  you should probably talk to Hector about this.
+
+>s
+Parish Office
+You find yourself in a smaller portion of the east wing:  the Parish Office.  This disheveled place is literally in shambles.  A tornado probably passed through the tiny office itself… Or worse.  You would expect the Parish Office to be a bit more organized. 
+
+On the left side of the room there is an incredibly messy office desk with papers sprawled all over it.  On the corner of the desk you notice an opened cookbook.  On the right side of the room you notice an old, rickety candle stand with a thin drawer attached to it.  There are three beautiful, candles placed on the candle stand. 
+
+A path leads north and south. 
+
+>organize papers
+As you begin to sift through the mess of papers, you come across a small silver key buried under the pile of papers!
+
+>take key
+(the small silver key)
+Taken.
+
+>l
+Parish Office
+You find yourself back in the Parish Office.  An office desk, a candle stand , and three candles are present in the room.  You can move north or south from here.
+
+>x desk
+With the papers partially organized, it is much easier to see what is on the desk.
+
+On the office desk are a cookbook and are some papers.
+
+>read cookbook
+The cookbook is open to a spaghetti recipe.  It reads: 
+
+Step 1: Boil Water. 
+
+Step 2: Insert raw spaghetti into pot of boiling water 
+
+…
+
+>s
+Chapel
+You enter the Chapel and somehow feel out of place.  In such a small room, you can almost feel the spiritual intensity. In the far corner of the Chapel you can see an old chapel closet.
+
+You also see a man who appears to be a custodian, in the far corner.  You glean his name is Hector the Custodian from his craftily sewed on nametag.  Once Hector catches your glance, he gives you a warm, welcoming smile and a wave.  Almost immediately, Hector seems like someone you can trust.
+
+A path leads west and north.
+
+>open closet
+You open the Chapel Closet, revealing a step stool.
+
+>take stool
+Taken.
+
+>wave hector
+But you aren't holding him.
+
+>l
+Chapel
+Back in the chapel.  There is a closet in the corner and Hector quietly doing his tasks.  You can go north or west from here.
+
+>i
+You are carrying:
+  a step stool
+  a small silver key
+  meatball bits
+  a fork
+  a knife
+  a museum key
+  money
+  a postcard
+  an unknown key
+  lighter fluid
+  a pair of work gloves (being worn)
+  a heatproof suit
+  a restroom key
+
+>n
+Parish Office
+You find yourself back in the Parish Office.  An office desk, a candle stand , and three candles are present in the room.  You can move north or south from here.
+
+>x stand
+This holy candle stand serves as the supporter for three very important candles… Unfotunately you are not exactly sure of their importance.  But the three candles on the stand are adorned with gold and silver accents.  Attached to the stand is a thin drawer.
+
+On the corner stand are a first candle, second candle and third candle.
+
+>open drawer
+It seems to be locked.
+
+>use silver key to open drawer
+That's not a verb I recognise.
+
+>unlock drawer with silver key
+You unlock the thin drawer.
+
+>open drawer
+You open the thin drawer, revealing a zippo lighter and small engraving.
+
+>x engraving
+You have to squint to read it, but you can make out 2 numbers…
+
+ 1 _ 3
+
+You wonder what this code could translate to…
+
+>take zippo
+Taken.
+
+>put fluid in zippo
+You put lighter fluid into the zippo lighter.
+
+>ignite zippo
+The zippo lighter is lit!  You have successfully harnessed the magnificent element of fire!
+
+>light first candle
+You light the first candle.
+
+>light third candle
+You light third candle.
+
+After lighting the first and third candles, you notice a secret compartment below the corner stand.
+
+>open secret compartment
+You open the secret compartment, revealing a groundskeeper's wallet.
+
+>take wallet
+Taken.
+
+>n
+Serra Center
+You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!
+
+You can travel west and south from here.
+
+You can see an emergency fire sprinkler and a handwritten note here.
+
+>put stool on floor
+You can't see any such thing.
+
+>drop stool
+Dropped.
+
+>get on stool
+That's not something you can enter.
+
+>stand on stool
+That's not something you can stand on.
+
+>l
+Serra Center
+You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!
+
+You can travel west and south from here.
+
+You can see a step stool, an emergency fire sprinkler and a handwritten note here.
+
+>go on stool
+You can't see any such thing.
+
+>step on stool
+You have stepped up your step stool
+
+Serra Center (on the step stool)
+You are in the Serra Center with the Nasty Noodle!  You must defeat this uncooked condiment!
+
+You can travel west and south from here.
+
+You can see an emergency fire sprinkler and a handwritten note here.
+
+You quickly flip turn off your zippo, realizing it might be the best idea to put on some sort of protective clothing before dousing the room in boiing hot water… the room you are in of course.
+
+>put on suit
+You put on the heatproof suit.
+
+>ignite zippo
+The zippo lighter is lit!  You have successfully harnessed the magnificent element of fire!
+
+You lift the lit zippo lighter near the sprinkler, and before you know it… hundreds of pounds of water come raining down form the ceiling.  The water is incredibly hot, just as Hector predicted.  But as the water dumps on the room, you realize the nasty noodle is becoming weaker, smaller, less nasty.  It only takes 30 seconds for the nasty noodle to be stripped of his power.  Now there are pieces of cooked spaghetti all over the room!
+
+>take spaghetti
+Taken.
+
+>w
+(first getting off the step stool)
+
+East Garden
+ The wide open area in the East Garden would be perfect for a picnic; the gardens are quite beautiful in the evening.  More gardens lie to the west. You can glimpse the parking lot to the south. There are doors to the mission northeast, northwest, east, and southeast of here.
+
+You can see a groundskeeper here.
+
+>w
+Middle Garden
+You return to the middle garden. The gardens continue east and west. There is also a door to the north.
+
+>w
+West Garden
+Flowers line the pathways in this section of the Gardens and you can hear birdsong in the distance. You can glimpse more gardens to the east, a parking lot south of here, and doors leading inside the mission to the northwest, north, and northeast.
+
+You can see a museum door here.
+
+>nw
+Gift Shop
+You are in the Gift Shop, what wonders await you here? The shelves are lined with various knickknacks: rosaries, bibles, posters, and postcards -- all of them mission-themed... Well, the church needs to support itself somehow, and selling junk to tourists is one way to do it.
+
+ The Gift Shop has an exit to the west, and the museum lies to the east.
+
+You can see a gift shop door, a souvenir bible, a rosary, a cash register (empty), a poster A and a poster B here.
+
+>w
+Main Entrance
+You are amazed by the entirety of the Church to the south.  Stairs lined with pillars take you to the grand wooden door.  To the north there appears to be some sort of statue and eastward there is a tiny gift shop selling things for the Mission.
+
+Standing at the top of the stairs is the Saucy Sorceress.  She is an overconfident, cocky, saucy sorceress.  She won't stop pontificating about the glories of the Flying Spaghetti Monster.
+
+You can also see a barricade and a grand wooden door here.
+
+>combine spaghettti and meatballs
+You can't see any such thing.
+
+>i
+You are carrying:
+  Cooked spaghetti
+  a groundskeeper's wallet
+  a zippo lighter
+    lighter fluid
+  a small silver key
+  meatball bits
+  a fork
+  a knife
+  a museum key
+  money
+  a postcard
+  an unknown key
+  a pair of work gloves (being worn)
+  a heatproof suit (being worn)
+  a restroom key
+
+>combine meatball bits and cooked spaghetti
+You can't use multiple objects with that verb.
+
+>combine meatball bits with cooked spaghetti
+You now have Delicious Spaghetti Dish.
+
+>eat spaghetti
+The Saucy Sorceress Screams "The horror!  My precious creation!  What have you done?!  This is unspeakable."  You feel the room shake and you hear a high pitched sound, like something scraping against the floor. She flees inside the Church.
+
+>i
+You are carrying:
+  a groundskeeper's wallet
+  a zippo lighter
+    lighter fluid
+  a small silver key
+  a fork
+  a knife
+  a museum key
+  money
+  a postcard
+  an unknown key
+  a pair of work gloves (being worn)
+  a heatproof suit (being worn)
+  a restroom key
+
+>drop all
+groundskeeper's wallet: Dropped.
+zippo lighter: Dropped.
+small silver key: Dropped.
+fork: Dropped.
+knife: Dropped.
+museum key: Dropped.
+money: Dropped.
+postcard: Dropped.
+unknown key: Dropped.
+restroom key: Dropped.
+
+>l
+Main Entrance
+You are amazed by the entirety of the Church to the south.  Stairs lined with pillars take you to the grand wooden door.  To the north there appears to be some sort of statue and eastward there is a tiny gift shop selling things for the Mission.
+
+You can see a restroom key, an unknown key, a postcard, money, a museum key, a knife, a fork, a small silver key, a zippo lighter (in which is lighter fluid), a groundskeeper's wallet, a barricade and a grand wooden door here.
+
+>n
+(first opening the barricade)
+Even if you climbed this barricade the fall would break a bone.  Maybe you should try a different way.
+
+>s
+(first opening the grand wooden door)
+
+Main Church
+An oppressive aura fills the air here. The church is lined by rows of pews and an altar stands at the head, covered in a white linen cloth. The Mission Lobby lies to the south of the author.
+
+The altar is made of granite marble.
+
+A wizened priest strolls around the church, cleaning things and greeting anyone that comes in.  He seems willing to answer any questions, although you may not get the response you want.
+
+You can also see a grand wooden door here.
+
+>ask about altar
+(addressing the Priest)
+He looks at the altar with a serene expression. "I usually pray at the altar each day at noon."
+
+>x altar
+Upon looking closer, you notice a few blood spots.
+
+>ask about blood
+Oh, I'm not so sure about that. However, I need your help. Could you fetch me a special book and a beaker combined with liquid from the other room?
+
+>s
+mission lobby
+There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.
+
+In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.
+
+The picture says "Touched by his noodly appendage".
+
+You can also see a bookshelf and a chair here.
+
+>x trash
+You can't see any such thing.
+
+>x trash can
+You can't see any such thing.
+
+>x tables
+You can't see any such thing.
+
+>x table
+You can't see any such thing.
+
+>x bookshelf
+A place to store books. This one is currently empty.
+
+>take book
+Taken.
+
+>i
+You are carrying:
+  a book
+  a pair of work gloves (being worn)
+  a heatproof suit (being worn)
+
+>l
+mission lobby
+There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.
+
+In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.
+
+The picture says "Touched by his noodly appendage".
+
+You can also see a bookshelf and a chair here.
+
+>s
+Sacristy
+This is a room where the priests and beacons can prepare for the upcoming masses and rituals.  The walls are mostly barren, but a few small objects can be seen. On the east wall, a single picture hangs on the wall and a candle lights the room. On the south wall, a clothes rack can be seen. The west wall is dark and forboding for some reason...
+
+Clothes are hanging from the rack for the next mass.
+
+You can also see a west wall here.
+
+>x west wall
+A mayo stain on the wall has begun to harden, leaving a slight trail towards the floor. You could probably scoop up the remaining... liquid?
+
+>x clothes rack
+In the clothes rack are a shirt, a robe and a jacket.
+
+>x robe
+A long formal garment to wear for the celebration of holiness. There appears to be something in the robe pocket...
+
+>x pocket
+There's a small, empty beaker in the pocket!
+
+>take beaker
+Taken.
+
+>take mayo stain
+Taken.
+
+>put mayo in beaker
+You put the mayo stain into the empty beaker.
+
+>n
+mission lobby
+There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.
+
+In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.
+
+The picture says "Touched by his noodly appendage".
+
+You can also see a bookshelf and a chair here.
+
+>n
+Main Church
+An oppressive aura fills the air here. The church is lined by rows of pews and an altar stands at the head, covered in a white linen cloth. The Mission Lobby lies to the south of the author.
+
+The altar is made of granite marble.
+
+A wizened priest strolls around the church, cleaning things and greeting anyone that comes in.  He seems willing to answer any questions, although you may not get the response you want.
+
+You can also see a grand wooden door here.
+
+>combine mayo with beaker
+(first taking the mayo stain)
+You now have a filled beaker.
+
+>give filled beaker
+(to the Priest)
+"Thank you, child. You're pretty sharp, I didn't even tell you what book I wanted!"
+
+>give book
+(to the Priest)
+Well... I did ask for a filled beaker. I suppose you've completed this part of the request like I asked.
+
+"Here you go, your reward as promised. One rusty, old, key!"
+
+>i
+You are carrying:
+  a rusty key
+  a pair of work gloves (being worn)
+  a heatproof suit (being worn)
+
+>w
+You can't go that way.
+
+>s
+mission lobby
+There is a sign that reads "Mission Lobby".  This place is usually bustling immediately after mass, but right now it is deserted. A sturdy oak door lies to the east, and exits to the south and west.
+
+In the far east corner of the lobby, there looks to be a filled trash can ready to be taken out.
+
+The picture says "Touched by his noodly appendage".
+
+You can also see a bookshelf and a chair here.
+
+>w
+Annex
+The annex is brightly lit, yet deathly still.  The beacon lives here but is currently away. There is a bed in the corner with a night stand and a closet on the sides.  The bed is not made and the blankets are scattered around, looks like someone left in a hurry. You can exit to the southeast and north from here.
+
+You can see an oak door and a rusty door here.
+
+>s
+You can't go that way.
+
+>open rusty door with rusty key
+You unlock the rusty door.
+
+>se
+(first opening the rusty door)
+
+Private Garden
+The grounds outside the rectory are foreboding at this time of night. Each shadow seems to jump out at you, each creaking of a branch sounds like a banshee's howl. Is it just your nerves, or is something really wrong with this place? For whatever reason, your unease is tied to this place, like a bad memory.  The entrance to the Rectory lies west of here, and a door to the northwest leads indoors.
+
+You can see a rusty door here.
+
+>w
+Rectory
+ You navigate your way inside the Rectory. You seem to have no trouble finding your way, as if you've been here before. Is something guiding your hand or… No, there's no time to get lost in thought. There has to be a reason you came here, right? In the study, there is a desk with a small drawer.  On the desk next to it is a small black notebook, no doubt well used by the Deacon. The exit to the Rectory lies to the east.
+
+>open drawer
+You cautiously open the drawer and look inside. You spot a half-full bottle of marinara sauce near the back. It is cool to the touch. Behind that, you find a key inset with solid oak.
+
+>take sauce
+The bottle isn't open.
+
+>take bottle
+Taken.
+
+>take oak key
+Taken.
+
+>read notebook
+You skip the older entries; something tells you that you don't have enough time to read them all. On the final page of writing, there are two entries: one from yesterday and one from today… You read on. 
+
+ Yesterday
+ ****** Journal entry 29 Oct, 2013. 
+
+ The ritual is proceeding as planned. I have issued a statement regarding the closure of the Mission in preparation for All Saints Day. Now the only ones left on the premises are my faithful, and the sacrifice. Powerful blood flows through that child's veins, and I intend to finally make use of it. Now after all these years, HE shall reawaken! I must go now, and see to preparations. 
+
+ Today
+ ****** Journal entry 30 Oct, 2013. 
+
+ NO! My vessel has gone missing! Someone must have had a hand in the escape. There is no way that child could have broken out on their own. I have used some of my power to cook up a summoning spell. With my demonic assistance, nobody will be able to leave this place unnoticed, and they will be able to help fuel the ritual. The vessel must be recaptured. Others will be able to hold HIS form, but none are so perfect, so suited to the task as the child. I will not be stopped. 
+
+ My reserves of sauce run low. I should not need the sauce to perform this ritual now, and I am not sure if I will be able to make more. Still, the rush it has given me was… exhilarating. 
+>e
+Private Garden
+The private garden is nearly deserted. Crying under a tall tree is the Saucy Sorceress you scared away earlier. She appears to be lost in her misery.  The entrance to the Rectory lies west of here, and a door to the northwest leads indoors.
+
+You can see a rusty door here.
+
+>talk Saucy
+I didn't understand that sentence.
+
+>talk Saucy Sorceress
+I didn't understand that sentence.
+
+>talk to Saucy Sorceress
+"What do YOU want, heathen? I have nothing to say to you after you committed such a vile act. Our gods were supposed to be perfect. PERFECT!" It appears that she blames you for all that's happened, but the talking seems to be doing her some good.
+
+>talk to Saucy Sorceress
+"Our master told me he had plans to subjugate the Flying Spaghetti Monster. He promised me! He promised that we'd make the world better. If we had control over the god, we would have been able to solve all the world's problems. Now it's RUINED!" You can't help but feel a little sorry for the girl. She was misled by a bad man, another victim in this silly drama.
+
+>talk to Saucy Sorceress
+"When I went back to him, he told me that I was useless; that I couldn't even catch you. He threw me away! What do I do now?" She glowers at you for a few moments, then goes back to sobbing. Maybe you should leave her alone for now.
+
+>talk to Saucy Sorceress
+I'm tired of talking, I have nothing more to say to you.
+
+>nw
+Annex
+The annex is brightly lit, yet deathly still.  The beacon lives here but is currently away. There is a bed in the corner with a night stand and a closet on the sides.  The bed is not made and the blankets are scattered around, looks like someone left in a hurry. You can exit to the southeast and north from here.
+
+You can see an oak door and a rusty door here.
+
+>n
+(first opening the oak door)
+It is locked, you need a key.
+
+>open oak door with oak key
+You unlock the oak door.
+
+>n
+(first opening the oak door)
+
+Fountain Area
+You walk into the Fountain Area and immediately notice something amiss. A bloated, bemoustached walrus has occupied the small fountain in the clearing. He appears to be guarding the area.  The walrus turns to face you before speaking. "Now kiddo, don't go thinking you can pull a fast one on me. In order to pass, you must first solve my riddles. If you fail, then I won't let you pass." He smiles as only a walrus can - poorly. "Best of luck with these. Nobody has been able to solve them in the last 1500 years." What choice do you have? Good luck with this one. "That damn absurdist stole this one from me 150 years ago. Not a single creative bone in his body. So, what IS the difference between a raven and a writing-desk?" There is a door to the south. You can see Father Serra's statue northeast of here.
+
+You can see an oak door here.
+
+>ne
+"Hey wait! I told you you need to answer my riddle first! Or is that too difficult for you?" He leers at you, waiting for a response.
+>ne
+This riddle is nonsense! Ignoring the fat mammal, you begin striding north anyway. The walrus looks at you pointedly but doesn't actually DO anything. All he manages is a stuttering "W-w-wait! You have to answer my r-riddles before you may pass! This isn't f-f-fair! STOP!!" It's really quite pitiful, seeing a talking walrus reduced to tears, but you have a schedule to keep. You press forward.
+
+Statue Room
+Father Serra stands here, a resolute testament to this Mission's endurance. He almost appears to be staring at you, offering you one last bit of peace before the final confrontation and warning you from going further. You can see exits to the southwest, north.
+
+You can see a barricade here.
+
+>n
+Bear Fountain
+A ritual circle has been set up around an ursine sculpture. From the distance you can see a smattering of cultists chanting away. You've done all you could to slow and weaken the ritual magic. It's now or never. You steel your nerves and walk towards the ritual circle. You hope that you look confident as you stride in and the cultists notice you. You don't. 
+
+Dean Darkmaster turns slowly to face you. You catch a flash of a wide smile as he recognizes you. "Well, well. I didn't even have to hunt you down; you came right to me. Welcome to the party! All of this is just for you!" He has turned to face you completely now, overbearingly tall and menacing. With a flash of his hands, you become rooted in place. "I am too powerful for you, child. There is nothing you can do to stop me. You have nothing left to aid you!" Or do you?
+
+>open bottle
+You open the bottle.
+
+He inches closer. Hurry up and act!
+
+>eat sauce
+(first taking the sauce)
+It smells pretty vile for Marinara Sauce, but what choice do you have? It's your only hope. While he's still walking toward you, you take a swig. Immediately, you feel his grip loosening on you. Surprise registers on his face. It is briefly replaced by alarm before settling on anger. "WHERE DID YOU GET THAT?" he bellows. The Deacon begins sprinting towards you. He barrels into you and you both crash to the ground. Normally, you wouldn't stand a chance against this giant of a man, but the sauce appears to be giving you extra strength. "I. MADE. YOU." he shrieks as you fight. "You owe me everything!" 
+
+ It all comes rushing back to you. No wonder you know so much about the mission, this was your home once. Many years ago, you fled, rightfully fearing for your life. Your father, Deacon Dean Darkmaster, your father, had once before tried to use you as a sacrifice for the Flying Spaghetti Monster. You ran for days on end, and eventually found refuge in an orphanage in Ventura, California. As the memories flood back in, a rage takes over. You begin to pummel your crappy father in his crappy face until he's crappy unconscious. The red begins to fade a little and you vaguely notice a ring around you and Deacon Dean Darkmaster. The ritual! You can feel the magic buildup is about to reach its climax and you're in the last place you want to be.
+
+You don't have much time. Move!
+
+>move n
+You must name something more substantial.
+
+You don't have much time. Move!
+
+>jump
+You barely manage to make it out of the way in time. The ritual reaches its conclusion with your father in the center. Already, you can see changes taking place; it appears that he was a suitable vessel as well. His body is already becoming more wobbly, his arms and legs dividing into smaller and smaller bits. 
+
+ After a scant 15 seconds, all that remains of your father are his clothes. In his place is his master, the Flying Spaghetti Monster. It still appears weak from the effects of the ritual, and it doesn't appear to be fully aware of its surroundings just yet. Now is your chance! You have just enough magic power left from drinking the sauce to muster up one shot of pure killing magic. Make it count.
+
+>shoot Monster
+With the last of your energy, you fire a magic missile right at the Flying Spaghetti Monster's… face? Regardless, you manage to blow it to smithereens. Even as you drop to the ground in exhaustion, the remaining pastafarian cultists flee in terror of your god-slaying might. There will be time to reflect on your actions later. For now, all you can manage to do is pass out. You come to in the same gardens where you started. Apparently the groundskeeper managed to carry you all the way here. He is standing a short ways off, gazing at the stars. He sees you, awake, and smiles. "Good job, kiddo. My old man must be pretty happy right about now." His old man? Yup. He smiles and points to his nametag. You can barely make it out in the low light. It reads JESUS. Wait what?! "Yeah, Father Serra was my grandfather. I've been watching over this mission since I was a kid. What, you think I thought GOD was my father? What are you, crazy?"
+
+
+
+    *** The End ***
+
+
+In that game you scored 0 out of a possible 0, in 165 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+>
